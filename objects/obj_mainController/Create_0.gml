@@ -1,7 +1,6 @@
 /// @description Set variables and stuff
 // You can write your code in this editor
 //set all the global variables
-//fuck takuma
 global.wood = 0;
 global.gems = 0;
 global.level = 1;
