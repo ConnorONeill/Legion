@@ -1,23 +1,23 @@
 {
-    "id": "bbc580a2-e66b-43e1-8970-5cf238abdfdd",
+    "id": "76138d38-9987-419e-93f2-f588cd63bcac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sabreTooth",
+    "name": "obj_sabreTooth_Boss",
     "eventList": [
         {
-            "id": "21057c77-7005-4af7-8691-84ad7d303af0",
+            "id": "118362c6-6564-42a1-b280-6a03cb471e70",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "bbc580a2-e66b-43e1-8970-5cf238abdfdd"
+            "m_owner": "76138d38-9987-419e-93f2-f588cd63bcac"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "c3509b0f-4e06-41ac-9d9d-c5ee71a1e180",
+    "parentObjectId": "bcdd635e-170d-46aa-8edf-0539da020075",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6da25b06-3baa-4077-bd0e-65fd06f7073e",
+    "spriteId": "375e3c95-72ec-48e3-9bc2-0ad6bd7601f2",
     "visible": true
 }

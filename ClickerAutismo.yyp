@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "76138d38-9987-419e-93f2-f588cd63bcac",
+            "Value": {
+                "id": "1393693d-034b-4ef3-bad7-ff22bdcd4f27",
+                "resourcePath": "objects\\obj_sabreTooth_Boss\\obj_sabreTooth_Boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "76413e8d-3f8b-44dc-b45b-643cd217ddb3",
             "Value": {
                 "id": "04c847a0-65ad-4a5a-bef5-f7b039e09d56",
@@ -364,6 +372,14 @@
                 "id": "2dcc9c03-0407-442c-b1e2-a03962cba5d8",
                 "resourcePath": "rooms\\rm_start\\rm_start.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "5642fb79-b04f-4593-825b-1efb8e0fc884",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -436,6 +452,14 @@
                 "id": "848da2c8-98a0-4f0f-9e94-1e9e22f494f5",
                 "resourcePath": "objects\\obj_btnMine\\obj_btnMine.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "e0e1eec4-8a8e-4480-a12a-c6bab3ac479a",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -700,6 +724,14 @@
                 "id": "2ced40f6-73ec-45d1-8224-3387b1095502",
                 "resourcePath": "views\\e33cd8df-925e-4f86-b6ff-f1f5c36b1ba3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "4c1af844-9f52-47e5-aada-afc91e97d58e",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {

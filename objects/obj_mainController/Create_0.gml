@@ -1,12 +1,14 @@
 /// @description Set variables and stuff
 // You can write your code in this editor
 //set all the global variables
+randomize();
 global.wood = 0;
 global.gems = 0;
-global.level = 1;
+global.level = 0;
 global.areaNum = 1;
 global.area = 0;
-global.pDamage = 1;
+//global.pDamage = 1;
+global.pDamage = 100;
 global.pDamageLevel = 1;
 global.pCritChance = 0;
 global.pCritDamage = 2;
@@ -46,7 +48,18 @@ font[1] = fnt_brian18;
 plains[0] = obj_stel1;
 plains[1] = obj_enemy2;
 plains[2] = obj_sabreTooth;
-plains[3] = noone;
+plains[3] = obj_sabreTooth_Boss;
+plains[4] = noone;
+//plains[3] = obj_sabreTooth;
+//plains[4] = obj_enemy2;
+//plains[5] = obj_enemy2;
+//plains[6] = obj_stel1;
+//plains[7] = obj_sabreTooth;
+//plains[8] = obj_stel1;
+//plains[9] = obj_enemy2;
+//plains[10] = obj_enemy2;
+//plains[11] = obj_sabreTooth_Boss;
+//plains[12] = noone;
 
 artic[0] = obj_huntingWolf;
 artic[1] = obj_zombie;
