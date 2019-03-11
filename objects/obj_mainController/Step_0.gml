@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-var arrayL = array_length_1d(global.area);
+
 
 
 //set timers	
@@ -20,7 +20,9 @@ if(room == rm_battle){
 		global.area = grave;
 	}
 	if global.areaNum == 4 global.area = noone;
-
+	
+	var arrayL = array_length_1d(global.area);
+	
 	//if there is no enemy replace it
 	if (global.area != noone){
 		if (global.enemy == noone and global.area[global.level] != noone){
